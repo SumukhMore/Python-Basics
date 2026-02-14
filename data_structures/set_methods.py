@@ -29,4 +29,4 @@ print(set1.intersection(set2))  # Intersection of two sets
 
 print(set1.difference(set2))  # Difference of two sets
 
-print(set1.symmetric_difference(set2))  # Symmetric difference of two sets
+print(set1.symmetric_difference(set2))  # Symmetric difference of two sets# Set methods examples
