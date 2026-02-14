@@ -16,4 +16,4 @@ print(type(tup3)) # This is not a tuple, it's an integer
 
 tup4 = (1,)
 print(tup4)
-print(type(tup4)) # This is a tuple with one element
+print(type(tup4)) # This is a tuple with one element# Tuples examples
