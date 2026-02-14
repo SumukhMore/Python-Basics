@@ -6,4 +6,4 @@ def calc_avg(a, b, c):
     print(avg)
     return avg
 
-calc_avg(10, 20, 30)
+calc_avg(10, 20, 30)# Function examples and practice
