@@ -22,3 +22,4 @@ print(line2)
 # t = text mode
 # + = update
 # x = create
+# File input and output examples
