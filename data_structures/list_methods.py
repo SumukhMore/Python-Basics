@@ -14,3 +14,4 @@ print("After insert at index 3:", list)
 list.remove(1)  # Removes the first occurrence of 1
 print("After remove 1:", list)
 
+# List methods examples
