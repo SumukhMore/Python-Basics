@@ -13,4 +13,4 @@ info = {
     } # nested dictionary
 }
 
-print(info)
+print(info)# Dictionaries examples
