@@ -15,4 +15,4 @@ car1.press_accelerator()
 
 # Abstraction in OOP refers to the concept of hiding the complex implementation details
 # and exposing only the necessary and relevant parts of an object or system.
-# This helps in reducing complexity and increases efficiency.
+# This helps in reducing complexity and increases efficiency.# Abstraction example in Python OOP
