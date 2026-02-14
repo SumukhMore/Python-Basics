@@ -35,4 +35,4 @@ for i in range(5, 15): #start, stop
     print(i)
 
 for i in range(1, 20, 2): #start, stop, step
-    print(i) # This code demonstrates the use of the range function in for loops to print numbers in different ranges and steps.
+    print(i) # This code demonstrates the use of the range function in for loops to print numbers in different ranges and steps.# For loop examples
