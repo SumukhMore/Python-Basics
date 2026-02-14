@@ -18,4 +18,4 @@ info.items()  # Returns a view object of key-value pairs
 
 info.get("name")  # Returns the value for the specified key
 
-info.update({"age": 21})  # Updates the value for the specified key
+info.update({"age": 21})  # Updates the value for the specified key# Dictionary methods examples
