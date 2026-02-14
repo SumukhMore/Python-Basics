@@ -11,4 +11,4 @@ print(collection2)
 print(type(collection2)) 
 
 print(collection3)
-print(type(collection3))
+print(type(collection3))# Sets examples
