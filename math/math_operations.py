@@ -1,4 +1,4 @@
 a = 1000
 b = 2000
 sum = a + b
-print("The sum of a and b is:", sum)
+print("The sum of a and b is:", sum)# Basic math operations examples
