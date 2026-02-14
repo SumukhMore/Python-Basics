@@ -25,4 +25,4 @@ print(acc.owner)          # Output: Sumukh
 print(acc.get_balance())  # Output: 1000
 acc.deposit(500)
 acc.withdraw(200)
-print(acc.get_balance())  # Output: 1300
+print(acc.get_balance())  # Output: 1300# Private members example in OOP
