@@ -23,4 +23,4 @@ print(car2.stop())  # Output: Car stopped
 # types of inheritance:
 # Single Inheritance 
 # Multi-level Inheritance
-# Hierarchical Inheritance
+# Hierarchical Inheritance# Inheritance example in OOP
