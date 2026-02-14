@@ -1,3 +1,4 @@
+# Add variables example
 name = "Sumukh More" #string variable
 age = 20 #integer variable
 age2 = age + 5  # Adding 5 to age
