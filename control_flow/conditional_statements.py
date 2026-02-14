@@ -7,4 +7,4 @@ elif (light == "Yellow"):
 elif (light == "Green"):
     print("Go")
 else:
-    print("Invalid Color")    
+    print("Invalid Color")    # Conditional statements examples
