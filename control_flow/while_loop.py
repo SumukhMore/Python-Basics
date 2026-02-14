@@ -40,4 +40,4 @@ while i <= 5:
         i += 1
         continue #skip
     print(i)
-    i += 1
+    i += 1# While loop examples
