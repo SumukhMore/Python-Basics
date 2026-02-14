@@ -23,4 +23,4 @@ class MathOperations:
 result = MathOperations.add(5, 10)
 print(result)
 
-# @staticmethod allows us to call the method without creating an instance of the class.
+# @staticmethod allows us to call the method without creating an instance of the class.# Methods example in Python OOP
