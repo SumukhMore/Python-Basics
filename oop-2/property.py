@@ -12,4 +12,4 @@ stu = Student(85, 90, 95)
 print(stu.percentage)
 
 stu._phy = 95  # Modifying protected attribute
-print(stu.percentage)
+print(stu.percentage)# Property decorator example in OOP
